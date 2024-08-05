@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "249281504220",
+    "project_id": "lovetoeat-001seller",
+    "storage_bucket": "lovetoeat-001seller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249281504220:android:4f42fa1653fe5b6a66e519",
+        "android_client_info": {
+          "package_name": "com.lovetoeat.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hvk5igKarWItJN8JA5WizNXrUf537qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249281504220:android:40ed8e653ab1db0866e519",
+        "android_client_info": {
+          "package_name": "com.lovetoeat.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hvk5igKarWItJN8JA5WizNXrUf537qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249281504220:android:90a117dbaf001ec666e519",
+        "android_client_info": {
+          "package_name": "com.lovetoeat.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hvk5igKarWItJN8JA5WizNXrUf537qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
